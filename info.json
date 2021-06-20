@@ -1,459 +1,219 @@
 {
     "available_space": true,
     "size_max": 40.62082386016846,
-    "size_mean": 9.862938202752007,
+    "size_mean": 9.469524220057897,
     "size_min": 1.337315559387207,
-    "total_size": 887.6644382476807,
+    "total_size": 662.8666954040527,
     "video_list": {
         "A Jako Pako- Nazi kon disfraz-XOr7axQrcX0.mp4": {
-            "image": "https://i.ytimg.com/vi/XOr7axQrcX0/hqdefault.jpg",
-            "size": 3.865976333618164,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/A%20Jako%20Pako-%20Nazi%20kon%20disfraz-XOr7axQrcX0.mp4?raw=true"
+            "size": 3.865976333618164
         },
         "A Rocking Little Tune  -  Bill Haley and The Comets.-c5jo6fVL0cs.mp4": {
-            "image": "https://i.ytimg.com/vi/c5jo6fVL0cs/hqdefault.jpg",
-            "size": 5.566364288330078,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/A%20Rocking%20Little%20Tune%20%20-%20%20Bill%20Haley%20and%20The%20Comets.-c5jo6fVL0cs.mp4?raw=true"
+            "size": 5.566364288330078
         },
         "A Will Kill Ya--19H6J2k3nw.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 5.349119186401367,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/A%20Will%20Kill%20Ya--19H6J2k3nw.mp4?raw=true"
+            "size": 5.349119186401367
+        },
+        "AFI -  Cure Icon Live -  Just like Heaven-4zWeh9q_ENU.mp4": {
+            "size": 15.262747764587402
         },
         "AFI -  Cure Icon Live -  Just like Heaven.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 15.262747764587402,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/AFI%20-%20%20Cure%20Icon%20Live%20-%20%20Just%20like%20Heaven.mp4?raw=true"
+            "size": 15.262747764587402
+        },
+        "AFI-Cure_Icon_Live-Just_like_Heaven.mp4": {
+            "size": 15.262747764587402
         },
         "ALEXIO - Tumba La Casa Remix ft. Daddy, Nicky Jam, Arcangel, \u00d1engo Flow, Zion, Farruko, De la Ghetto-Exgc-QKA22Q.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 18.56435489654541,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/ALEXIO%20-%20Tumba%20La%20Casa%20Remix%20ft.%20Daddy%2C%20Nicky%20Jam%2C%20Arcangel%2C%20%C3%91engo%20Flow%2C%20Zion%2C%20Farruko%2C%20De%20la%20Ghetto-Exgc-QKA22Q.mp4?raw=true"
+            "size": 18.56435489654541
         },
         "ALIMA\u00d1A H.C.- 'Tu Estupidez' - Adelanto nuevo disco 'Odio y Ruido'-2gR2UOmTiM0.mp4": {
-            "image": "https://i.ytimg.com/vi/2gR2UOmTiM0/hqdefault.jpg",
-            "size": 7.008327484130859,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/ALIMA%C3%91A%20H.C.-%20'Tu%20Estupidez'%20-%20Adelanto%20nuevo%20disco%20'Odio%20y%20Ruido'-2gR2UOmTiM0.mp4?raw=true"
+            "size": 7.008327484130859
         },
         "ALL SHALL PERISH - Eradication (OFFICIAL MUSIC VIDEO)-TFx85CfMvWI.mp4": {
-            "image": "https://i.ytimg.com/vi/TFx85CfMvWI/hqdefault.jpg",
-            "size": 15.130936622619629,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/ALL%20SHALL%20PERISH%20-%20Eradication%20(OFFICIAL%20MUSIC%20VIDEO)-TFx85CfMvWI.mp4?raw=true"
+            "size": 15.130936622619629
+        },
+        "AMOR DE ESTUDIANTE  ROBERTO JORDAN 1968-0-xWSfFv-CE.mp4": {
+            "size": 9.546300888061523
         },
         "AQUELLA DESPEDIDA - ROSENDO CANTU Y SUS COMANDANTES DE CHINA-jEXp-bE0EnA.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 7.189806938171387,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/AQUELLA%20DESPEDIDA%20-%20ROSENDO%20CANTU%20Y%20SUS%20COMANDANTES%20DE%20CHINA-jEXp-bE0EnA.mp4?raw=true"
+            "size": 7.189806938171387
         },
         "A_political - Free Trade In Death-YSOKluMcqqo.mp4": {
-            "image": "https://i.ytimg.com/vi/YSOKluMcqqo/hqdefault.jpg",
-            "size": 4.005120277404785,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/A_political%20-%20Free%20Trade%20In%20Death-YSOKluMcqqo.mp4?raw=true"
+            "size": 4.005120277404785
         },
         "Aar\u00f3n Y Su Grupo Ilusi\u00f3n - Embrujo ft. Mariana Seoane-GweeV-KAeMg.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 19.014683723449707,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Aar%C3%B3n%20Y%20Su%20Grupo%20Ilusi%C3%B3n%20-%20Embrujo%20ft.%20Mariana%20Seoane-GweeV-KAeMg.mp4?raw=true"
+            "size": 19.014683723449707
         },
         "Acada Instante-gCjQ5N13ays.mp4": {
-            "image": "https://i.ytimg.com/vi/gCjQ5N13ays/hqdefault.jpg",
-            "size": 3.3169546127319336,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Acada%20Instante-gCjQ5N13ays.mp4?raw=true"
+            "size": 3.3169546127319336
         },
         "Action-6fsLgTNrqnk.mp4": {
-            "image": "https://i.ytimg.com/vi/6fsLgTNrqnk/hqdefault.jpg",
-            "size": 4.173542022705078,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Action-6fsLgTNrqnk.mp4?raw=true"
+            "size": 4.173542022705078
         },
         "Ac\u00e1 Entre Nos-fO5Jyv53Sms.mp4": {
-            "image": "https://i.ytimg.com/vi/fO5Jyv53Sms/hqdefault.jpg",
-            "size": 6.248907089233398,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Ac%C3%A1%20Entre%20Nos-fO5Jyv53Sms.mp4?raw=true"
+            "size": 6.248907089233398
+        },
+        "Adios Amor - Conjunto Primavera.mp4": {
+            "size": 8.134336471557617
+        },
+        "Adonais--JYF9dOGM-M.mp4": {
+            "size": 5.118939399719238
+        },
+        "Afro tambu (Canto a Venus)-CsWghSa494Q.mp4": {
+            "size": 2.8852081298828125
+        },
+        "Agitations tropicales.mp4": {
+            "size": 8.980664253234863
+        },
+        "Agua bendita - A tu lado (letra)-ybAROeUbk2w.mp4": {
+            "size": 6.781857490539551
         },
         "Ain't No Meaning-EQ8Ynd2d9yc.mp4": {
-            "image": "https://i.ytimg.com/vi/EQ8Ynd2d9yc/hqdefault.jpg",
-            "size": 7.5221967697143555,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Ain't%20No%20Meaning-EQ8Ynd2d9yc.mp4?raw=true"
+            "size": 7.5221967697143555
         },
         "Aisles - Upside Down (Official Music Video)-bf5rq6G0X28.mp4": {
-            "image": "https://i.ytimg.com/vi/bf5rq6G0X28/hqdefault.jpg",
-            "size": 14.92257022857666,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Aisles%20-%20Upside%20Down%20(Official%20Music%20Video)-bf5rq6G0X28.mp4?raw=true"
+            "size": 14.92257022857666
+        },
+        "Ajuste De Cuentas-BE7rfd84PZ8.mp4": {
+            "size": 8.206167221069336
         },
         "Akaba Ya!!-MwY0pDTGHpY.mp4": {
-            "image": "https://i.ytimg.com/vi/MwY0pDTGHpY/hqdefault.jpg",
-            "size": 3.2108497619628906,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Akaba%20Ya!!-MwY0pDTGHpY.mp4?raw=true"
+            "size": 3.2108497619628906
         },
         "Alabina - Alabina (Original Version) - Official Video-mDhmKrW4F6Y.mp4": {
-            "image": "https://i.ytimg.com/vi/mDhmKrW4F6Y/hqdefault.jpg",
-            "size": 19.699318885803223,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Alabina%20-%20Alabina%20(Original%20Version)%20-%20Official%20Video-mDhmKrW4F6Y.mp4?raw=true"
+            "size": 19.699318885803223
         },
         "Alan y Roberto -El Bule De Agua  (Video Oficial)-VF82FIwK6V4.mp4": {
-            "image": "https://i.ytimg.com/vi/VF82FIwK6V4/hqdefault.jpg",
-            "size": 14.061549186706543,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Alan%20y%20Roberto%20-El%20Bule%20De%20Agua%20%20(Video%20Oficial)-VF82FIwK6V4.mp4?raw=true"
+            "size": 14.061549186706543
         },
         "Albert Collins - Rory Gallagher - Boogie Jam (Live Audio)-2v-T8yxXGNk.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 15.57550048828125,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Albert%20Collins%20-%20Rory%20Gallagher%20-%20Boogie%20Jam%20(Live%20Audio)-2v-T8yxXGNk.mp4?raw=true"
+            "size": 15.57550048828125
         },
         "All Dark Graves-IxvaRJWzK9I.mp4": {
-            "image": "https://i.ytimg.com/vi/IxvaRJWzK9I/hqdefault.jpg",
-            "size": 7.730145454406738,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/All%20Dark%20Graves-IxvaRJWzK9I.mp4?raw=true"
+            "size": 7.730145454406738
         },
         "Alton Ellis - Mr Soul Of Jamaica [1974]-cO73SPOVaoE.mp4": {
-            "image": "https://i.ytimg.com/vi/cO73SPOVaoE/hqdefault.jpg",
-            "size": 40.62082386016846,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Alton%20Ellis%20-%20Mr%20Soul%20Of%20Jamaica%20%5B1974%5D-cO73SPOVaoE.mp4?raw=true"
+            "size": 40.62082386016846
         },
         "Alton Ellis - Rocksteady-9HhN3iNmFb8.mp4": {
-            "image": "https://i.ytimg.com/vi/9HhN3iNmFb8/hqdefault.jpg",
-            "size": 4.737847328186035,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Alton%20Ellis%20-%20Rocksteady-9HhN3iNmFb8.mp4?raw=true"
+            "size": 4.737847328186035
         },
         "Alton Ellis - True Loving-SK7FFME25n0.mp4": {
-            "image": "https://i.ytimg.com/vi/SK7FFME25n0/hqdefault.jpg",
-            "size": 5.483941078186035,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Alton%20Ellis%20-%20True%20Loving-SK7FFME25n0.mp4?raw=true"
+            "size": 5.483941078186035
         },
         "Alton Ellis - What Does It Take (To Win Your Love)--xEKhh1YcLM.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 5.544424057006836,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Alton%20Ellis%20-%20What%20Does%20It%20Take%20(To%20Win%20Your%20Love)--xEKhh1YcLM.mp4?raw=true"
+            "size": 5.544424057006836
+        },
+        "America - A horse with no name (clip HQ)-Tm4BrZjY_Sg.mp4": {
+            "size": 13.327964782714844
+        },
+        "America - Sister Golden Hair 1975 (1977, HQ)-3oNULFXLuMc.mp4": {
+            "size": 12.116982460021973
         },
         "America - Today's The Day-vckHXe0lavY.mp4": {
-            "image": "https://i.ytimg.com/vi/vckHXe0lavY/hqdefault.jpg",
-            "size": 4.679664611816406,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/America%20-%20Today's%20The%20Day-vckHXe0lavY.mp4?raw=true"
+            "size": 4.679664611816406
+        },
+        "America- Tin Man (w_ lyrics)-7uJL8er_tV0.mp4": {
+            "size": 8.648455619812012
         },
         "Amor A La Ligera-aDEj38yiG-0.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 5.401447296142578,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Amor%20A%20La%20Ligera-aDEj38yiG-0.mp4?raw=true"
+            "size": 5.401447296142578
+        },
+        "Amor Platonico-HuoJBkv3Jvc.mp4": {
+            "size": 2.2153310775756836
+        },
+        "Amor de Mas-Qy1SOdEOAgk.mp4": {
+            "size": 6.421136856079102
         },
         "Amor sucio - Robe con Capitan Kavernikola-j1TBXUjGnGE.mp4": {
-            "image": "https://i.ytimg.com/vi/j1TBXUjGnGE/hqdefault.jpg",
-            "size": 6.303859710693359,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Amor%20sucio%20-%20Robe%20con%20Capitan%20Kavernikola-j1TBXUjGnGE.mp4?raw=true"
+            "size": 6.303859710693359
+        },
+        "Amour plastique.mp4": {
+            "size": 7.3083391189575195
         },
         "Ancient Covenant-vZenVStOOP0.mp4": {
-            "image": "https://i.ytimg.com/vi/vZenVStOOP0/hqdefault.jpg",
-            "size": 9.527195930480957,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Ancient%20Covenant-vZenVStOOP0.mp4?raw=true"
+            "size": 9.527195930480957
+        },
+        "And The Angels Sing ~ Ziggy Elman & His Orchestra (1938)-exJCut2xMDk.mp4": {
+            "size": 6.749303817749023
         },
         "Andate - Todos Tus Muertos (Version Dale Aborigen)-ULVtoFtFyWU.mp4": {
-            "image": "https://i.ytimg.com/vi/ULVtoFtFyWU/hqdefault.jpg",
-            "size": 8.993332862854004,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Andate%20-%20Todos%20Tus%20Muertos%20(Version%20Dale%20Aborigen)-ULVtoFtFyWU.mp4?raw=true"
+            "size": 8.993332862854004
         },
         "Andy Gibb - I Just Want to Be Your Everything-tA6L8-lxaA8.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 4.681820869445801,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Andy%20Gibb%20-%20I%20Just%20Want%20to%20Be%20Your%20Everything-tA6L8-lxaA8.mp4?raw=true"
+            "size": 4.681820869445801
         },
         "Angel Below -Underoath (w_ lyrics)-j2V-6qGAqdc.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 6.090144157409668,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Angel%20Below%20-Underoath%20(w_%20lyrics)-j2V-6qGAqdc.mp4?raw=true"
+            "size": 6.090144157409668
+        },
+        "Angels and Devils-xq8k5zNhyOI.mp4": {
+            "size": 8.020370483398438
         },
         "Anorando Tus Besos-R2BSWnW8f-4.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 4.690289497375488,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Anorando%20Tus%20Besos-R2BSWnW8f-4.mp4?raw=true"
+            "size": 4.690289497375488
         },
         "Another Place Another Time-BCofrqq8RlY.mp4": {
-            "image": "https://i.ytimg.com/vi/BCofrqq8RlY/hqdefault.jpg",
-            "size": 2.8451614379882812,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Another%20Place%20Another%20Time-BCofrqq8RlY.mp4?raw=true"
+            "size": 2.8451614379882812
         },
         "Antimilitar-CA6Yo7fXvog.mp4": {
-            "image": "https://i.ytimg.com/vi/CA6Yo7fXvog/hqdefault.jpg",
-            "size": 2.7229557037353516,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Antimilitar-CA6Yo7fXvog.mp4?raw=true"
+            "size": 2.7229557037353516
         },
         "Any Colour You Like - Pink Floyd HD (Studio Quality)-bK7HJvmgFnM.mp4": {
-            "image": "https://i.ytimg.com/vi/bK7HJvmgFnM/hqdefault.jpg",
-            "size": 4.069568634033203,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Any%20Colour%20You%20Like%20-%20Pink%20Floyd%20HD%20(Studio%20Quality)-bK7HJvmgFnM.mp4?raw=true"
+            "size": 4.069568634033203
+        },
+        "Apatia No - Satira Tortutaurina-ZJnABly_lTw.mp4": {
+            "size": 3.6416664123535156
+        },
+        "Arcade Fire - Intervention-ZO7ZWfvCjBE.mp4": {
+            "size": 11.547807693481445
+        },
+        "Arcade Fire - Song on the Beach; Photograph-g_72RkQV25Y.mp4": {
+            "size": 9.22449779510498
         },
         "Art Blakey & The Jazz Messengers, in 'Whisper Not', Live, 1958.-JN6vCdmOV-Q.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 17.757122039794922,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Art%20Blakey%20%26%20The%20Jazz%20Messengers%2C%20in%20'Whisper%20Not'%2C%20Live%2C%201958.-JN6vCdmOV-Q.mp4?raw=true"
+            "size": 17.757122039794922
+        },
+        "Art Blakey and the Jazz Messengers - Ecaroh-b4AugBKYZ3s.mp4": {
+            "size": 10.298636436462402
         },
         "Arturo Sandoval 'There Will Never Be Another You' _ Live Studio Session-z1nOfbQ_GwU.mp4": {
-            "image": "https://i.ytimg.com/vi/z1nOfbQ_GwU/hqdefault.jpg",
-            "size": 32.767069816589355,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Arturo%20Sandoval%20'There%20Will%20Never%20Be%20Another%20You'%20_%20Live%20Studio%20Session-z1nOfbQ_GwU.mp4?raw=true"
+            "size": 32.767069816589355
         },
         "Atrapado-9ZPDzSuwMs8.mp4": {
-            "image": "https://i.ytimg.com/vi/9ZPDzSuwMs8/hqdefault.jpg",
-            "size": 5.292922019958496,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Atrapado-9ZPDzSuwMs8.mp4?raw=true"
+            "size": 5.292922019958496
+        },
+        "Audioslave - I Am The Highway-cy2ZUGc2mSs.mp4": {
+            "size": 21.9224853515625
+        },
+        "Audioslave - Show Me How to Live (Official Video)-vVXIK1xCRpY.mp4": {
+            "size": 19.01769733428955
         },
         "Aunque Mal Paguen Ellas-Zw8HzckTrkc.mp4": {
-            "image": "https://i.ytimg.com/vi/Zw8HzckTrkc/hqdefault.jpg",
-            "size": 4.483090400695801,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Aunque%20Mal%20Paguen%20Ellas-Zw8HzckTrkc.mp4?raw=true"
+            "size": 4.483090400695801
         },
-        "BASURA - C.R.O ft. DUKI (prod. Negro Dub)-O3VzFcCZjK0.mp4": {
-            "image": "https://i.ytimg.com/vi/O3VzFcCZjK0/hqdefault.jpg",
-            "size": 7.723427772521973,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/BASURA%20-%20C.R.O%20ft.%20DUKI%20(prod.%20Negro%20Dub)-O3VzFcCZjK0.mp4?raw=true"
+        "Aunque con sangre lloremos - Poncho k-lnvyHtig8QQ.mp4": {
+            "size": 3.865083694458008
         },
-        "Ballad Of A Teenage Queen ~ Johnny Cash (1957)-AEjmO8yeKoA.mp4": {
-            "image": "https://i.ytimg.com/vi/AEjmO8yeKoA/hqdefault.jpg",
-            "size": 6.392082214355469,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Ballad%20Of%20A%20Teenage%20Queen%20%7E%20Johnny%20Cash%20(1957)-AEjmO8yeKoA.mp4?raw=true"
+        "Auto Rojo - Vilma Palma e Vampiros (Video Oficial)-95kf6cCasfg.mp4": {
+            "size": 19.219837188720703
         },
-        "Banda el Recodo - Que Te Ruege Quien Te Quiera (Letras)-X3kA4Ow3CaA.mp4": {
-            "image": "https://i.ytimg.com/vi/X3kA4Ow3CaA/hqdefault.jpg",
-            "size": 9.842338562011719,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Banda%20el%20Recodo%20-%20Que%20Te%20Ruege%20Quien%20Te%20Quiera%20(Letras)-X3kA4Ow3CaA.mp4?raw=true"
+        "Ave de Paso (1967) Sandro-TjyRUeML6nc.mp4": {
+            "size": 8.181148529052734
         },
-        "CANNED HEAT - TIME WAS-blhBcjuOUAM.mp4": {
-            "image": "https://i.ytimg.com/vi/blhBcjuOUAM/hqdefault.jpg",
-            "size": 7.98416805267334,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/CANNED%20HEAT%20-%20TIME%20WAS-blhBcjuOUAM.mp4?raw=true"
-        },
-        "Calle 13 - Algo Con-Sentido (Cover Audio Video) ft. pg-13-WrBFpXL2a34.mp4": {
-            "image": "https://i.ytimg.com/vi/WrBFpXL2a34/hqdefault.jpg",
-            "size": 11.579465866088867,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Calle%2013%20-%20Algo%20Con-Sentido%20(Cover%20Audio%20Video)%20ft.%20pg-13-WrBFpXL2a34.mp4?raw=true"
-        },
-        "Calle 13 - Gringo Latin Funk (Audio)-ytUzxWF4zoQ.mp4": {
-            "image": "https://i.ytimg.com/vi/ytUzxWF4zoQ/hqdefault.jpg",
-            "size": 7.975815773010254,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Calle%2013%20-%20Gringo%20Latin%20Funk%20(Audio)-ytUzxWF4zoQ.mp4?raw=true"
-        },
-        "Calle 13 - La Fokin Moda (Cover Audio Video)-k9iiURzjs6Y.mp4": {
-            "image": "https://i.ytimg.com/vi/k9iiURzjs6Y/hqdefault.jpg",
-            "size": 8.556144714355469,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Calle%2013%20-%20La%20Fokin%20Moda%20(Cover%20Audio%20Video)-k9iiURzjs6Y.mp4?raw=true"
-        },
-        "Calle 13 - No Hay Nadie Como T\u00fa (Video) ft. Caf\u00e9 Tacuba-t0DeJ5HeG8o.mp4": {
-            "image": "https://i.ytimg.com/vi/t0DeJ5HeG8o/hqdefault.jpg",
-            "size": 21.243324279785156,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Calle%2013%20-%20No%20Hay%20Nadie%20Como%20T%C3%BA%20(Video)%20ft.%20Caf%C3%A9%20Tacuba-t0DeJ5HeG8o.mp4?raw=true"
-        },
-        "Calle 13 - Tango del Pecado (Cover Audio Video) ft. Bajofondo Tango Club, Panasuyo-OeJHMzqtDHw.mp4": {
-            "image": "https://i.ytimg.com/vi/OeJHMzqtDHw/hqdefault.jpg",
-            "size": 9.079251289367676,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Calle%2013%20-%20Tango%20del%20Pecado%20(Cover%20Audio%20Video)%20ft.%20Bajofondo%20Tango%20Club%2C%20Panasuyo-OeJHMzqtDHw.mp4?raw=true"
-        },
-        "Calle 13 - Uiyi Guaye (Cover Audio Video)-53mmINFI7sA.mp4": {
-            "image": "https://i.ytimg.com/vi/53mmINFI7sA/hqdefault.jpg",
-            "size": 12.470978736877441,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Calle%2013%20-%20Uiyi%20Guaye%20(Cover%20Audio%20Video)-53mmINFI7sA.mp4?raw=true"
-        },
-        "Camino de una direcci\u00f3n - Los Suaves-2UPzjn3dYqo.mp4": {
-            "image": "https://i.ytimg.com/vi/2UPzjn3dYqo/hqdefault.jpg",
-            "size": 7.460321426391602,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Camino%20de%20una%20direcci%C3%B3n%20-%20Los%20Suaves-2UPzjn3dYqo.mp4?raw=true"
-        },
-        "Cannabis-E5XkzVyg0rk.mp4": {
-            "image": "https://i.ytimg.com/vi/E5XkzVyg0rk/hqdefault.jpg",
-            "size": 4.61137580871582,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Cannabis-E5XkzVyg0rk.mp4?raw=true"
-        },
-        "Carl Perkins - Guitar Boogie-Ln6M5-ErpcE.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 6.872563362121582,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Carl%20Perkins%20-%20Guitar%20Boogie-Ln6M5-ErpcE.mp4?raw=true"
-        },
-        "Carla Morrison - Eres t\u00fa (letra)-5TwAyUCJbl8.mp4": {
-            "image": "https://i.ytimg.com/vi/5TwAyUCJbl8/hqdefault.jpg",
-            "size": 5.213481903076172,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Carla%20Morrison%20-%20Eres%20t%C3%BA%20(letra)-5TwAyUCJbl8.mp4?raw=true"
-        },
-        "Carlos Sadness - Mira Que Eres Linda-Edyb96Jbpqo.mp4": {
-            "image": "https://i.ytimg.com/vi/Edyb96Jbpqo/hqdefault.jpg",
-            "size": 11.736361503601074,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Carlos%20Sadness%20-%20Mira%20Que%20Eres%20Linda-Edyb96Jbpqo.mp4?raw=true"
-        },
-        "Carlos Santana - Samba Pa Ti-j5AUm_xaE9A.mp4": {
-            "image": "https://i.ytimg.com/vi/j5AUm_xaE9A/hqdefault.jpg",
-            "size": 5.314573287963867,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Carlos%20Santana%20-%20Samba%20Pa%20Ti-j5AUm_xaE9A.mp4?raw=true"
-        },
-        "Carolyn Wonderland 'Judgement Day Blues'-7b4fJRPnZT0.mp4": {
-            "image": "https://i.ytimg.com/vi/7b4fJRPnZT0/hqdefault.jpg",
-            "size": 24.865221977233887,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Carolyn%20Wonderland%20'Judgement%20Day%20Blues'-7b4fJRPnZT0.mp4?raw=true"
-        },
-        "Casas Viejas - Dueto de Anta\u00f1o-teP-Iwn6K1g.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 7.88908576965332,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Casas%20Viejas%20-%20Dueto%20de%20Anta%C3%B1o-teP-Iwn6K1g.mp4?raw=true"
-        },
-        "Cassandra Gemini - Faminepulse-D2hrg-kctA0.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 12.016072273254395,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Cassandra%20Gemini%20-%20Faminepulse-D2hrg-kctA0.mp4?raw=true"
-        },
-        "Cassandra Gemini - Plant A Nail In the Navel Stream-Uqbhv4pl-D8.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 4.581682205200195,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Cassandra%20Gemini%20-%20Plant%20A%20Nail%20In%20the%20Navel%20Stream-Uqbhv4pl-D8.mp4?raw=true"
-        },
-        "Cassandra Gemini - Tarantism-4TApHHFY8jM.mp4": {
-            "image": "https://i.ytimg.com/vi/4TApHHFY8jM/hqdefault.jpg",
-            "size": 10.416877746582031,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Cassandra%20Gemini%20-%20Tarantism-4TApHHFY8jM.mp4?raw=true"
-        },
-        "Fallas Del Sistema - Anarquico Es El Pensamiento-8NtUjqS3yQM.mp4": {
-            "image": "https://i.ytimg.com/vi/8NtUjqS3yQM/hqdefault.jpg",
-            "size": 2.824151039123535,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Fallas%20Del%20Sistema%20-%20Anarquico%20Es%20El%20Pensamiento-8NtUjqS3yQM.mp4?raw=true"
-        },
-        "Fallas Del Sistema - Multinacionales De Hambre Y Miseria-J7qgutAPNAo.mp4": {
-            "image": "https://i.ytimg.com/vi/J7qgutAPNAo/hqdefault.jpg",
-            "size": 5.481804847717285,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Fallas%20Del%20Sistema%20-%20Multinacionales%20De%20Hambre%20Y%20Miseria-J7qgutAPNAo.mp4?raw=true"
-        },
-        "Fallas Del Sistema - Tortura Taurina-_UqQ_BPLFfI.mp4": {
-            "image": "https://i.ytimg.com/vi/_UqQ_BPLFfI/hqdefault.jpg",
-            "size": 4.5022993087768555,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Fallas%20Del%20Sistema%20-%20Tortura%20Taurina-_UqQ_BPLFfI.mp4?raw=true"
-        },
-        "Gangsters and Thugs - Transplants-K_ZG0qw_obk.mp4": {
-            "image": "https://i.ytimg.com/vi/K_ZG0qw_obk/hqdefault.jpg",
-            "size": 7.060945510864258,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Gangsters%20and%20Thugs%20-%20Transplants-K_ZG0qw_obk.mp4?raw=true"
-        },
-        "Gary B.B. Coleman - The Sky is Crying-71Gt46aX9Z4.mp4": {
-            "image": "https://i.ytimg.com/vi/71Gt46aX9Z4/hqdefault.jpg",
-            "size": 27.322808265686035,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Gary%20B.B.%20Coleman%20-%20The%20Sky%20is%20Crying-71Gt46aX9Z4.mp4?raw=true"
-        },
-        "Happy Death Men-jnNZPt499KI.mp4": {
-            "image": "https://i.ytimg.com/vi/jnNZPt499KI/hqdefault.jpg",
-            "size": 6.762666702270508,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Happy%20Death%20Men-jnNZPt499KI.mp4?raw=true"
-        },
-        "Hard To Be-the Vaughan Brothers-mYLGcymAXN4.mp4": {
-            "image": "https://i.ytimg.com/vi/mYLGcymAXN4/hqdefault.jpg",
-            "size": 7.764577865600586,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Hard%20To%20Be-the%20Vaughan%20Brothers-mYLGcymAXN4.mp4?raw=true"
-        },
-        "Jamie Grace - White Boots (feat. Morgan Harper Nichols) [Official Lyric Video]-y0Q0mw1zv4s.mp4": {
-            "image": "https://i.ytimg.com/vi/y0Q0mw1zv4s/hqdefault.jpg",
-            "size": 10.583207130432129,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Jamie%20Grace%20-%20White%20Boots%20(feat.%20Morgan%20Harper%20Nichols)%20%5BOfficial%20Lyric%20Video%5D-y0Q0mw1zv4s.mp4?raw=true"
-        },
-        "La Perra Vida - Estoy Cansado (Sessiones en Directo)-2C4lFM9aGVI.mp4": {
-            "image": "https://i.ytimg.com/vi/2C4lFM9aGVI/hqdefault.jpg",
-            "size": 28.340913772583008,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/La%20Perra%20Vida%20-%20Estoy%20Cansado%20(Sessiones%20en%20Directo)-2C4lFM9aGVI.mp4?raw=true"
-        },
-        "La coyota - ozomonkey-m4eclaTpPe0.mp4": {
-            "image": "https://i.ytimg.com/vi/m4eclaTpPe0/hqdefault.jpg",
-            "size": 10.575750350952148,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/La%20coyota%20-%20ozomonkey-m4eclaTpPe0.mp4?raw=true"
-        },
-        "MARCA REGISTRADA _ SIGAN ATENTOS (2020)-nrLYljedMXE.mp4": {
-            "image": "https://i.ytimg.com/vi/nrLYljedMXE/hqdefault.jpg",
-            "size": 16.50238800048828,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/MARCA%20REGISTRADA%20_%20SIGAN%20ATENTOS%20(2020)-nrLYljedMXE.mp4?raw=true"
-        },
-        "Manu Chao - Circo Caliente-xoopEW7H4ic.mp4": {
-            "image": "https://i.ytimg.com/vi/xoopEW7H4ic/hqdefault.jpg",
-            "size": 7.688357353210449,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Manu%20Chao%20-%20Circo%20Caliente-xoopEW7H4ic.mp4?raw=true"
-        },
-        "Manu Chao - El Contragolpe-FEtbPI9Pu6I.mp4": {
-            "image": "https://i.ytimg.com/vi/FEtbPI9Pu6I/hqdefault.jpg",
-            "size": 14.029680252075195,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Manu%20Chao%20-%20El%20Contragolpe-FEtbPI9Pu6I.mp4?raw=true"
-        },
-        "Manu Chao - Giramundo (Estacion Mexico)-pKfhaCfZkfE.mp4": {
-            "image": "https://i.ytimg.com/vi/pKfhaCfZkfE/hqdefault.jpg",
-            "size": 12.35495376586914,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Manu%20Chao%20-%20Giramundo%20(Estacion%20Mexico)-pKfhaCfZkfE.mp4?raw=true"
-        },
-        "Manu Chao - Por ti (Libertad).-Z6waSGV8dSk.mp4": {
-            "image": "https://i.ytimg.com/vi/Z6waSGV8dSk/hqdefault.jpg",
-            "size": 4.536795616149902,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Manu%20Chao%20-%20Por%20ti%20(Libertad).-Z6waSGV8dSk.mp4?raw=true"
-        },
-        "Marigold-Brv-lCLttyg.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 3.043394088745117,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Marigold-Brv-lCLttyg.mp4?raw=true"
-        },
-        "Nada Ha Cambiado - MTZ Manuel Turizo--dI4oTssDhE.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 13.670825958251953,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Nada%20Ha%20Cambiado%20-%20MTZ%20Manuel%20Turizo--dI4oTssDhE.mp4?raw=true"
-        },
-        "Pactando carreras-JPhaHmCUPy0.mp4": {
-            "image": "https://i.ytimg.com/vi/JPhaHmCUPy0/hqdefault.jpg",
-            "size": 3.25815486907959,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Pactando%20carreras-JPhaHmCUPy0.mp4?raw=true"
-        },
-        "Paper Tiger ~ Sue Thompson (1964)-BwSeSjR1REM.mp4": {
-            "image": "https://i.ytimg.com/vi/BwSeSjR1REM/hqdefault.jpg",
-            "size": 6.043060302734375,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Paper%20Tiger%20%7E%20Sue%20Thompson%20(1964)-BwSeSjR1REM.mp4?raw=true"
-        },
-        "Radio Colifata - La Locura del Sol-6lfOP70-h7k.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 17.71146297454834,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Radio%20Colifata%20-%20La%20Locura%20del%20Sol-6lfOP70-h7k.mp4?raw=true"
-        },
-        "Rage Against The Machine - Testify (Official Music Video)-Q3dvbM6Pias.mp4": {
-            "image": "https://i.ytimg.com/vi/Q3dvbM6Pias/hqdefault.jpg",
-            "size": 16.859984397888184,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Rage%20Against%20The%20Machine%20-%20Testify%20(Official%20Music%20Video)-Q3dvbM6Pias.mp4?raw=true"
-        },
-        "Sad Statue-8IH1JFoiGqU.mp4": {
-            "image": "https://i.ytimg.com/vi/8IH1JFoiGqU/hqdefault.jpg",
-            "size": 3.119999885559082,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Sad%20Statue-8IH1JFoiGqU.mp4?raw=true"
-        },
-        "Sama-FPwQ5PGZiPY.mp4": {
-            "image": "https://i.ytimg.com/vi/FPwQ5PGZiPY/hqdefault.jpg",
-            "size": 13.068581581115723,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Sama-FPwQ5PGZiPY.mp4?raw=true"
-        },
-        "Sapore di sale _ - Gino Paoli-R76Abv8-Mbc.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 13.43637466430664,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Sapore%20di%20sale%20_%20-%20Gino%20Paoli-R76Abv8-Mbc.mp4?raw=true"
-        },
-        "Satin Doll (Take 7)-WwEfX1v3soc.mp4": {
-            "image": "https://i.ytimg.com/vi/WwEfX1v3soc/hqdefault.jpg",
-            "size": 4.8421220779418945,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Satin%20Doll%20(Take%207)-WwEfX1v3soc.mp4?raw=true"
-        },
-        "Tabletom - Blues Ozono-TxxoGLmZsNk.mp4": {
-            "image": "https://i.ytimg.com/vi/TxxoGLmZsNk/hqdefault.jpg",
-            "size": 21.8425931930542,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Tabletom%20-%20Blues%20Ozono-TxxoGLmZsNk.mp4?raw=true"
-        },
-        "Zara Larsson - Lush Life-tD4HCZe-tew.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 13.266742706298828,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Zara%20Larsson%20-%20Lush%20Life-tD4HCZe-tew.mp4?raw=true"
+        "Ay Carmela - Viva la Quinta Brigada - Rolando Alarcon-Fko5fYIBJFU.mp4": {
+            "size": 7.528806686401367
         },
         "apatia no contra ti capitalismo-SqbelaD41m8.mp4": {
-            "image": "https://i.ytimg.com/vi/SqbelaD41m8/hqdefault.jpg",
-            "size": 4.419251441955566,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/apatia%20no%20contra%20ti%20capitalismo-SqbelaD41m8.mp4?raw=true"
+            "size": 4.419251441955566
         },
-        "sad songs for sad people-Jllu94-8PxI.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 7.477006912231445,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/sad%20songs%20for%20sad%20people-Jllu94-8PxI.mp4?raw=true"
+        "aquel consejo - pesado-kYJDpH7_4j8.mp4": {
+            "size": 5.21343994140625
         },
         "\u00bfAhora Qui\u00e9n Se Queja--9dkL1dQtWQ8.mp4": {
-            "image": "https://i.ytimg.com/vi/9dkL1dQtWQ8/hqdefault.jpg",
-            "size": 1.337315559387207,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/%C2%BFAhora%20Qui%C3%A9n%20Se%20Queja--9dkL1dQtWQ8.mp4?raw=true"
+            "size": 1.337315559387207
+        },
+        "\u00c1ngela Aguilar - En Realidad (Video Oficial)-sWjsLcmQzVI.mp4": {
+            "size": 18.35051441192627
         }
     }
 }
