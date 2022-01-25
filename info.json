@@ -1,6 +1,7 @@
 {
-    "available_space": true,
-    "files": [
+    "available_space": false,
+    "total_size": 1048.1511000000005,
+    "videos": [
         "Transplants - California Babylon-okUVfg71Atw.mp4",
         "Enamorate de mí-l4uWLiT1xCE.mp4",
         "Daft Punk - Robot Rock (Official Video)-sFZjqVnWBhc.mp4",
@@ -99,7 +100,5 @@
         "De mi enamórate _ Daniela Romo-2GWftGahyvw.mp4",
         "Acá Entre Nos-fO5Jyv53Sms.mp4",
         "Boston - Amanda (subtitulado)-9ZQ6nDUF284.mp4"
-    ],
-    "id": "a",
-    "total_size": 999.5950791015626
+    ]
 }
