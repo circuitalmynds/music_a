@@ -1,5 +1,5 @@
 {
-    "available_space": false,
+    "available_space": true,
     "content": [
         {
             "id": "XXZ0AMJ9-zg",
@@ -79,13 +79,6 @@
             "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Como La Lluvia-cFWYEiMyqK0.mp4?raw=true"
         },
         {
-            "id": "jlAgHt92lqE",
-            "name": "Foster The People - Don't Stop (Color on the Walls) (Official Music Video)-jlAgHt92lqE.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/a/videos/Foster The People - Don't Stop (Color on the Walls) (Official Music Video)-jlAgHt92lqE.mp4",
-            "size": 15.515129,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Foster The People - Don't Stop (Color on the Walls) (Official Music Video)-jlAgHt92lqE.mp4?raw=true"
-        },
-        {
             "id": "N9YqRaSWIqI",
             "name": "Los Hermanos Vega El Pajarito-N9YqRaSWIqI.mp4",
             "path": "/home/alanmatzumiya/Videos/container/a/videos/Los Hermanos Vega El Pajarito-N9YqRaSWIqI.mp4",
@@ -121,13 +114,6 @@
             "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/David Bowie - 'She's Got Medals' - 1967-hG6YOvi7Jsc.mp4?raw=true"
         },
         {
-            "id": "ySzrJ4GRF7s",
-            "name": "Soundgarden - Fell On Black Days-ySzrJ4GRF7s.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/a/videos/Soundgarden - Fell On Black Days-ySzrJ4GRF7s.mp4",
-            "size": 14.772724,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Soundgarden - Fell On Black Days-ySzrJ4GRF7s.mp4?raw=true"
-        },
-        {
             "id": "Feh5bA_9VNw",
             "name": "An Autopsy-Feh5bA_9VNw.mp4",
             "path": "/home/alanmatzumiya/Videos/container/a/videos/An Autopsy-Feh5bA_9VNw.mp4",
@@ -154,13 +140,6 @@
             "path": "/home/alanmatzumiya/Videos/container/a/videos/Conjunto primavera VOLVER-NKUscjGnzqM.mp4",
             "size": 7.192114999999999,
             "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Conjunto primavera VOLVER-NKUscjGnzqM.mp4?raw=true"
-        },
-        {
-            "id": "KkGVmN68ByU",
-            "name": "Shawn Mendes - Mercy-KkGVmN68ByU.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/a/videos/Shawn Mendes - Mercy-KkGVmN68ByU.mp4",
-            "size": 11.877766999999999,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Shawn Mendes - Mercy-KkGVmN68ByU.mp4?raw=true"
         },
         {
             "id": "FUK-3vnGn3o",
@@ -198,13 +177,6 @@
             "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/De mi enamórate _ Daniela Romo-2GWftGahyvw.mp4?raw=true"
         },
         {
-            "id": "jp5GpNntKy0",
-            "name": "Diego Verdaguer - Nena (Video Oficial)-jp5GpNntKy0.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/a/videos/Diego Verdaguer - Nena (Video Oficial)-jp5GpNntKy0.mp4",
-            "size": 12.714635999999999,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Diego Verdaguer - Nena (Video Oficial)-jp5GpNntKy0.mp4?raw=true"
-        },
-        {
             "id": "Y8yY9aS8Nyo",
             "name": "Desorden y Sangre - La Coyota-Y8yY9aS8Nyo.mp4",
             "path": "/home/alanmatzumiya/Videos/container/a/videos/Desorden y Sangre - La Coyota-Y8yY9aS8Nyo.mp4",
@@ -226,25 +198,11 @@
             "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Come On, Pt. III (1984 Version)-EdnQBCR1-2E.mp4?raw=true"
         },
         {
-            "id": "ChvTMWYplAk",
-            "name": "Julio Iglesias - Gwendolyne, Eurovision-1970, Color HD (Remastered)-ChvTMWYplAk.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/a/videos/Julio Iglesias - Gwendolyne, Eurovision-1970, Color HD (Remastered)-ChvTMWYplAk.mp4",
-            "size": 12.994807,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Julio Iglesias - Gwendolyne, Eurovision-1970, Color HD (Remastered)-ChvTMWYplAk.mp4?raw=true"
-        },
-        {
             "id": "XNrVhkTSewQ",
             "name": "LOS BUNKERS  -  LLUEVE SOBRE LA CIUDAD-XNrVhkTSewQ.mp4",
             "path": "/home/alanmatzumiya/Videos/container/a/videos/LOS BUNKERS  -  LLUEVE SOBRE LA CIUDAD-XNrVhkTSewQ.mp4",
             "size": 12.362573999999999,
             "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/LOS BUNKERS  -  LLUEVE SOBRE LA CIUDAD-XNrVhkTSewQ.mp4?raw=true"
-        },
-        {
-            "id": "BVglo7vRskA",
-            "name": "I Want to Be Happy - Ella Fitzgerald-BVglo7vRskA.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/a/videos/I Want to Be Happy - Ella Fitzgerald-BVglo7vRskA.mp4",
-            "size": 5.9187639999999995,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/I Want to Be Happy - Ella Fitzgerald-BVglo7vRskA.mp4?raw=true"
         },
         {
             "id": "fO5Jyv53Sms",
@@ -275,25 +233,11 @@
             "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Boston - Amanda (subtitulado)-9ZQ6nDUF284.mp4?raw=true"
         },
         {
-            "id": "mbAyj1h9vI0",
-            "name": "Stray Cats - Stray Cat Strut (Official Video)-mbAyj1h9vI0.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/a/videos/Stray Cats - Stray Cat Strut (Official Video)-mbAyj1h9vI0.mp4",
-            "size": 16.589582,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Stray Cats - Stray Cat Strut (Official Video)-mbAyj1h9vI0.mp4?raw=true"
-        },
-        {
             "id": "l4uWLiT1xCE",
             "name": "Enamorate de mí-l4uWLiT1xCE.mp4",
             "path": "/home/alanmatzumiya/Videos/container/a/videos/Enamorate de mí-l4uWLiT1xCE.mp4",
             "size": 8.248775,
             "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Enamorate de mí-l4uWLiT1xCE.mp4?raw=true"
-        },
-        {
-            "id": "w6tNlYI3MdY",
-            "name": "Justice - Love S.O.S. (WWW) [Official Music Video]-w6tNlYI3MdY.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/a/videos/Justice - Love S.O.S. (WWW) [Official Music Video]-w6tNlYI3MdY.mp4",
-            "size": 14.741553999999999,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Justice - Love S.O.S. (WWW) [Official Music Video]-w6tNlYI3MdY.mp4?raw=true"
         },
         {
             "id": "mYLGcymAXN4",
@@ -401,13 +345,6 @@
             "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/La Fiera De Ojinaga - Basta (Video Oficial)-zu6AxVnY9R0.mp4?raw=true"
         },
         {
-            "id": "4zWeh9q_ENU",
-            "name": "AFI -  Cure Icon Live -  Just like Heaven-4zWeh9q_ENU.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/a/videos/AFI -  Cure Icon Live -  Just like Heaven-4zWeh9q_ENU.mp4",
-            "size": 16.004151,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/AFI -  Cure Icon Live -  Just like Heaven-4zWeh9q_ENU.mp4?raw=true"
-        },
-        {
             "id": "W8N0_JZjuNE",
             "name": "Im Content with Losing -Underoath + Lyrics-W8N0_JZjuNE.mp4",
             "path": "/home/alanmatzumiya/Videos/container/a/videos/Im Content with Losing -Underoath + Lyrics-W8N0_JZjuNE.mp4",
@@ -443,25 +380,11 @@
             "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Piero - Los Indios Pirulines [Canción Oficial] ®-ZDQ6DtggSFI.mp4?raw=true"
         },
         {
-            "id": "d522AsA68hQ",
-            "name": "¿Sabes ¡Phil Lynott Murió!-d522AsA68hQ.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/a/videos/¿Sabes ¡Phil Lynott Murió!-d522AsA68hQ.mp4",
-            "size": 14.906035,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/¿Sabes ¡Phil Lynott Murió!-d522AsA68hQ.mp4?raw=true"
-        },
-        {
             "id": "uUzNiAmx2Iw",
             "name": "Going Away To School ~ Warner Mack (1958)-uUzNiAmx2Iw.mp4",
             "path": "/home/alanmatzumiya/Videos/container/a/videos/Going Away To School ~ Warner Mack (1958)-uUzNiAmx2Iw.mp4",
             "size": 6.403446,
             "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Going Away To School ~ Warner Mack (1958)-uUzNiAmx2Iw.mp4?raw=true"
-        },
-        {
-            "id": "t4K35LzJ1yg",
-            "name": "Olefonken - Ubuntu Tutu-t4K35LzJ1yg.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/a/videos/Olefonken - Ubuntu Tutu-t4K35LzJ1yg.mp4",
-            "size": 10.917505,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Olefonken - Ubuntu Tutu-t4K35LzJ1yg.mp4?raw=true"
         },
         {
             "id": "HEnEmtOA2-8",
@@ -483,13 +406,6 @@
             "path": "/home/alanmatzumiya/Videos/container/a/videos/Ballad Of A Teenage Queen ~ Johnny Cash (1957)-AEjmO8yeKoA.mp4",
             "size": 6.702584,
             "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Ballad Of A Teenage Queen ~ Johnny Cash (1957)-AEjmO8yeKoA.mp4?raw=true"
-        },
-        {
-            "id": "zUzd9KyIDrM",
-            "name": "System Of A Down - B.Y.O.B. (Official Video)-zUzd9KyIDrM.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/a/videos/System Of A Down - B.Y.O.B. (Official Video)-zUzd9KyIDrM.mp4",
-            "size": 23.925084,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/System Of A Down - B.Y.O.B. (Official Video)-zUzd9KyIDrM.mp4?raw=true"
         },
         {
             "id": "HIvt0RG2Zt4",
@@ -569,11 +485,11 @@
             "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Bless You ~ Clyde McPhatter (1959)-Z7492niHgvI.mp4?raw=true"
         },
         {
-            "id": "UrIiLvg58SY",
-            "name": "Extreme - More Than Words (Official Video)-UrIiLvg58SY.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/a/videos/Extreme - More Than Words (Official Video)-UrIiLvg58SY.mp4",
-            "size": 15.465556999999999,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Extreme - More Than Words (Official Video)-UrIiLvg58SY.mp4?raw=true"
+            "id": "2yplwTe5IFQ",
+            "name": "Klaus Nomi - Just One Look [2yplwTe5IFQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a/videos/Klaus Nomi - Just One Look [2yplwTe5IFQ].mp4",
+            "size": 6.568702999999999,
+            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Klaus Nomi - Just One Look [2yplwTe5IFQ].mp4?raw=true"
         },
         {
             "id": "ZKIV2asNKHE",
@@ -595,6 +511,13 @@
             "path": "/home/alanmatzumiya/Videos/container/a/videos/I'm Coming Home ~ Johnny Horton  (1956)-LEfKhhaVoQo.mp4",
             "size": 5.4956059999999995,
             "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/I'm Coming Home ~ Johnny Horton  (1956)-LEfKhhaVoQo.mp4?raw=true"
+        },
+        {
+            "id": "4zWeh9q_ENU",
+            "name": "AFI -  Cure Icon Live -  Just like Heaven [4zWeh9q_ENU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a/videos/AFI -  Cure Icon Live -  Just like Heaven [4zWeh9q_ENU].mp4",
+            "size": 12.896417999999999,
+            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/AFI -  Cure Icon Live -  Just like Heaven [4zWeh9q_ENU].mp4?raw=true"
         },
         {
             "id": "7u5c-Qndqio",
@@ -695,13 +618,6 @@
             "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/System Of A Down - B.Y.O.B. (Official HD Video)-zUzd9KyIDrM.mp4?raw=true"
         },
         {
-            "id": "2yplwTe5IFQ",
-            "name": "Klaus Nomi - Just One Look-2yplwTe5IFQ.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/a/videos/Klaus Nomi - Just One Look-2yplwTe5IFQ.mp4",
-            "size": 8.09192,
-            "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Klaus Nomi - Just One Look-2yplwTe5IFQ.mp4?raw=true"
-        },
-        {
             "id": "w6tNlYI3MdY",
             "name": "Justice - Love S.O.S. (WWW) [Official Video]-w6tNlYI3MdY.mp4",
             "path": "/home/alanmatzumiya/Videos/container/a/videos/Justice - Love S.O.S. (WWW) [Official Video]-w6tNlYI3MdY.mp4",
@@ -744,5 +660,5 @@
             "url": "https://github.com/circuitalmynds/music_a/blob/main/videos/Briseyda Solis - Lagrimas de Sangre (Audio Oficial)-787WYgKtDXU.mp4?raw=true"
         }
     ],
-    "total_size": 1122.5351419999997
+    "total_size": 947.5650479999999
 }

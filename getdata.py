@@ -48,4 +48,4 @@ def getfiles():
 
 if __name__ == "__main__":
     save_info(getfiles())
-    print(getinfo())
+    # print(getinfo())
